@@ -1,0 +1,4 @@
+services:
+#    opta.example:
+#        class: OptaBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
