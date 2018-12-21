@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2016 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20160607T153849,151Z
+     production module:  Opta::Feed::XML::Soccer::F9
+-->
+<SoccerFeed TimeStamp="20160607T163849+0100">
+  <SoccerDocument Type="Result" uID="f426511">
+    <Competition uID="c3">
+      <Name>European Championship Finals</Name>
+      <Round>
+        <Name>Final</Name>
+      </Round>
+      <Stat Type="season_id">41</Stat>
+      <Stat Type="season_name">Season 1967/1968</Stat>
+      <Stat Type="symid">EU_EF</Stat>
+    </Competition>
+    <MatchData>
+      <MatchInfo MatchType="Cup" Period="FullTime" TimeStamp="20111129T184120+0000">
+        <Date>19680608T201500+0100</Date>
+        <Result Type="AfterExtraTime" />
+      </MatchInfo>
+      <MatchOfficial uID="o32094">
+        <OfficialData>
+          <OfficialRef Type="Main" />
+        </OfficialData>
+        <OfficialName>
+          <First>Gottfried</First>
+          <Last>Dienst</Last>
+        </OfficialName>
+      </MatchOfficial>
+      <Stat Type="match_time">120</Stat>
+      <Stat Type="first_half_start">20111129T184106+0000</Stat>
+      <Stat Type="first_half_time">45</Stat>
+      <Stat Type="first_half_stop">20111129T184106+0000</Stat>
+      <Stat Type="second_half_start">20111129T184106+0000</Stat>
+      <Stat Type="second_half_time">45</Stat>
+      <Stat Type="second_half_stop">20111129T184106+0000</Stat>
+      <Stat Type="first_half_extra_start">20111129T184130+0000</Stat>
+      <Stat Type="first_half_extra_time">15</Stat>
+      <Stat Type="first_half_extra_stop">20111129T184112+0000</Stat>
+      <Stat Type="second_half_extra_start">20111129T184115+0000</Stat>
+      <Stat Type="second_half_extra_time">15</Stat>
+      <Stat Type="second_half_extra_stop">20111129T184120+0000</Stat>
+      <TeamData Score="1" Side="Home" TeamRef="t119">
+        <Goal EventID="1021731071" EventNumber="2802" Period="SecondHalf" PlayerRef="p8669" Time="80" TimeStamp="20111129T184127+0000" Type="Goal" uID="g119-1" />
+        <PlayerLineUp>
+          <MatchPlayer PlayerRef="p29578" Position="Goalkeeper" ShirtNumber="1" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">1</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p8665" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">3</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p30082" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">2</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p29039" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">4</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p8662" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">6</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p8663" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">5</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p8670" Position="Midfielder" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">7</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p8671" Position="Midfielder" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">8</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p30160" Position="Striker" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">11</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p8669" Position="Striker" ShirtNumber="" Status="Start">
+            <Stat Type="att_rf_total">1</Stat>
+            <Stat Type="att_obox_goal">1</Stat>
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="touches">1</Stat>
+            <Stat Type="att_freekick_goal">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="ontarget_scoring_att">1</Stat>
+            <Stat Type="total_scoring_att">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="att_obx_centre">1</Stat>
+            <Stat Type="att_freekick_total">1</Stat>
+            <Stat Type="goals">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="att_rf_goal">1</Stat>
+            <Stat Type="att_goal_low_right">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">10</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p29475" Position="Striker" ShirtNumber="" Status="Start">
+            <Stat Type="attempts_conceded_ibox">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="goals_conceded_ibox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="formation_place">9</Stat>
+          </MatchPlayer>
+        </PlayerLineUp>
+        <Stat FH="0" SH="1" Type="att_rf_total">1</Stat>
+        <Stat FH="0" SH="1" Type="att_obox_goal">1</Stat>
+        <Stat FH="1" SH="0" Type="attempts_conceded_ibox">1</Stat>
+        <Stat FH="0" SH="1" Type="touches">1</Stat>
+        <Stat FH="0" SH="1" Type="att_freekick_goal">1</Stat>
+        <Stat FH="1" SH="0" Type="goals_conceded">1</Stat>
+        <Stat FH="0" SH="1" Type="ontarget_scoring_att">1</Stat>
+        <Stat FH="0" SH="1" Type="total_scoring_att">1</Stat>
+        <Stat FH="1" SH="0" Type="goals_conceded_ibox">1</Stat>
+        <Stat FH="0" SH="1" Type="att_obx_centre">1</Stat>
+        <Stat FH="0" SH="1" Type="att_freekick_total">1</Stat>
+        <Stat FH="0" SH="1" Type="goals">1</Stat>
+        <Stat FH="0" SH="1" Type="att_rf_goal">1</Stat>
+        <Stat FH="0" SH="1" Type="att_goal_low_right">1</Stat>
+        <Stat FH="0" SH="1" Type="forward_goals">1</Stat>
+        <Stat Type="formation_used"></Stat>
+      </TeamData>
+      <TeamData Score="1" Side="Away" TeamRef="t1797">
+        <Goal EventID="1520139424" EventNumber="1394" Period="FirstHalf" PlayerRef="p29088" Time="39" TimeStamp="20111129T184126+0000" Type="Goal" uID="g1797-1" />
+        <PlayerLineUp>
+          <MatchPlayer PlayerRef="p47132" Position="Goalkeeper" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">1</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p47178" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">4</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p29110" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">2</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p46274" Position="Defender" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">3</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p21077" Position="Midfielder" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">8</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p47176" Position="Midfielder" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">6</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p48045" Position="Midfielder" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">5</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p21838" Position="Midfielder" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">7</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p48046" Position="Striker" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">9</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p29088" Position="Striker" ShirtNumber="" Status="Start">
+            <Stat Type="touches">1</Stat>
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="ontarget_scoring_att">1</Stat>
+            <Stat Type="total_scoring_att">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="att_goal_low_centre">1</Stat>
+            <Stat Type="att_lf_total">1</Stat>
+            <Stat Type="goals">1</Stat>
+            <Stat Type="att_bx_centre">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="att_ibox_goal">1</Stat>
+            <Stat Type="att_lf_goal">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">11</Stat>
+          </MatchPlayer>
+          <MatchPlayer PlayerRef="p21852" Position="Striker" ShirtNumber="" Status="Start">
+            <Stat Type="goals_conceded">1</Stat>
+            <Stat Type="attempts_conceded_obox">1</Stat>
+            <Stat Type="game_started">1</Stat>
+            <Stat Type="mins_played">120</Stat>
+            <Stat Type="goals_conceded_obox">1</Stat>
+            <Stat Type="formation_place">10</Stat>
+          </MatchPlayer>
+        </PlayerLineUp>
+        <Stat FH="1" SH="0" Type="touches">1</Stat>
+        <Stat FH="0" SH="1" Type="goals_conceded">1</Stat>
+        <Stat FH="1" SH="0" Type="ontarget_scoring_att">1</Stat>
+        <Stat FH="1" SH="0" Type="total_scoring_att">1</Stat>
+        <Stat FH="0" SH="1" Type="attempts_conceded_obox">1</Stat>
+        <Stat FH="1" SH="0" Type="att_goal_low_centre">1</Stat>
+        <Stat FH="1" SH="0" Type="att_lf_total">1</Stat>
+        <Stat FH="1" SH="0" Type="goals">1</Stat>
+        <Stat FH="1" SH="0" Type="att_bx_centre">1</Stat>
+        <Stat FH="1" SH="0" Type="att_ibox_goal">1</Stat>
+        <Stat FH="1" SH="0" Type="forward_goals">1</Stat>
+        <Stat Type="first_half_goals">1</Stat>
+        <Stat FH="1" SH="0" Type="att_lf_goal">1</Stat>
+        <Stat FH="0" SH="1" Type="goals_conceded_obox">1</Stat>
+        <Stat Type="formation_used"></Stat>
+      </TeamData>
+    </MatchData>
+    <Team uID="t119">
+      <Country>Italy</Country>
+      <Name>Italy</Name>
+      <Player Position="Goalkeeper" uID="p29578">
+        <PersonName>
+          <First>Dino</First>
+          <Last>Zoff</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p8665">
+        <PersonName>
+          <First>Roberto</First>
+          <Last>Rosato</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p30082">
+        <PersonName>
+          <First>Alessandro</First>
+          <Last>Salvadore</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p29039">
+        <PersonName>
+          <First>Aristide</First>
+          <Last>Guarneri</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p8662">
+        <PersonName>
+          <First>Tarcisio</First>
+          <Last>Burgnich</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p8663">
+        <PersonName>
+          <First>Giacinto</First>
+          <Last>Facchetti</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p8670">
+        <PersonName>
+          <First>Sandro</First>
+          <Last>Mazzola</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p8671">
+        <PersonName>
+          <First>Giancarlo</First>
+          <Last>De Sisti</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p30160">
+        <PersonName>
+          <First>Pietro</First>
+          <Last>Anastasi</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p8669">
+        <PersonName>
+          <First>Angelo</First>
+          <Last>Domenghini</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p29475">
+        <PersonName>
+          <First>Luigi</First>
+          <Last>Riva</Last>
+        </PersonName>
+      </Player>
+    </Team>
+    <Team uID="t1797">
+      <Country>Yugoslavia</Country>
+      <Name>Yugoslavia</Name>
+      <Player Position="Goalkeeper" uID="p47132">
+        <PersonName>
+          <First>Ilija</First>
+          <Last>Pantelic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p47178">
+        <PersonName>
+          <First>Milan</First>
+          <Last>Damjanovic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p29110">
+        <PersonName>
+          <First>Miroslav</First>
+          <Last>Pavlovic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p46274">
+        <PersonName>
+          <First>Mirsad</First>
+          <Last>Fazlagic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p21077">
+        <PersonName>
+          <First>Jovan</First>
+          <Last>Acimovic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p47176">
+        <PersonName>
+          <First>Blagoje</First>
+          <Last>Paunovic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p48045">
+        <PersonName>
+          <First>Dobrivoje</First>
+          <Last>Trivic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p21838">
+        <PersonName>
+          <First>Dragan</First>
+          <Last>Holcer</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p48046">
+        <PersonName>
+          <First>Vahidin</First>
+          <Last>Musemic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p29088">
+        <PersonName>
+          <First>Dragan</First>
+          <Last>Dzajic</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p21852">
+        <PersonName>
+          <First>Idriz</First>
+          <Last>Hosic</Last>
+        </PersonName>
+      </Player>
+    </Team>
+    <Venue uID="v1336">
+      <Country>Italy</Country>
+      <Name>Olimpico</Name>
+    </Venue>
+  </SoccerDocument>
+</SoccerFeed>

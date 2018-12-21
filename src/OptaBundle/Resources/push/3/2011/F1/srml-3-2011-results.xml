@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2018 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20180604T134722,569Z
+     production module:  Opta::Feed::XML::Soccer::F1
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="EU_EF" competition_id="3" competition_name="European Championship Finals" game_system_id="1" season_id="2011" season_name="Season 2011/2012" timestamp="2018-06-04 14-47-22">
+    <MatchData detail_id="1" last_modified="2016-04-27T10:41:46+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426847">
+      <MatchInfo GroupName="A" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7759">
+        <Date>2012-06-08 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Carlos" LastName="Velasco Carballo" Type="Referee" uID="o18744" />
+      </MatchOfficials>
+      <Stat Type="Venue">PGE Narodowy</Stat>
+      <Stat Type="City">Warsaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t511">
+        <Goal Period="FirstHalf" PlayerRef="p56764" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t517">
+        <Goal Period="SecondHalf" PlayerRef="p28130" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-08T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426848">
+      <MatchInfo GroupName="A" MatchDay="1" MatchType="Regular" MatchWinner="t536" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7760">
+        <Date>2012-06-08 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Howard" LastName="Webb" Type="Referee" uID="o17676" />
+      </MatchOfficials>
+      <Stat Type="Venue">Stadion Miejski (Wroclaw)</Stat>
+      <Stat Type="City">Wroclaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="4" Side="Home" TeamRef="t536">
+        <Goal Period="FirstHalf" PlayerRef="p51437" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p48822" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20298" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p51437" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t367">
+        <Goal Period="SecondHalf" PlayerRef="p78353" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-09T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426850">
+      <MatchInfo GroupName="B" MatchDay="1" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7761">
+        <Date>2012-06-09 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Stéphane" LastName="Lannoy" Type="Referee" uID="o19551" />
+      </MatchOfficials>
+      <Stat Type="Venue">Arena Lviv</Stat>
+      <Stat Type="City">Lviv</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t357">
+        <Goal Period="SecondHalf" PlayerRef="p17884" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t359" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-09T17:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426849">
+      <MatchInfo GroupName="B" MatchDay="1" MatchType="Regular" MatchWinner="t369" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3570">
+        <Date>2012-06-09 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Damir" LastName="Skomina" Type="Referee" uID="o40740" />
+      </MatchOfficials>
+      <Stat Type="Venue">Metalist Stadium</Stat>
+      <Stat Type="City">Kharkiv</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t366" />
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p16099" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-10T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426852">
+      <MatchInfo GroupName="C" MatchDay="1" MatchType="Regular" MatchWinner="t535" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="4995">
+        <Date>2012-06-10 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Björn" LastName="Kuipers" Type="Referee" uID="o39370" />
+      </MatchOfficials>
+      <Stat Type="Venue">INEA Stadion</Stat>
+      <Stat Type="City">Poznan</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t116">
+        <Goal Period="FirstHalf" PlayerRef="p15960" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="3" Side="Away" TeamRef="t535">
+        <Goal Period="FirstHalf" PlayerRef="p62419" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p46197" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46197" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-10T17:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426851">
+      <MatchInfo GroupName="C" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7367">
+        <Date>2012-06-10 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Viktor" LastName="Kassai" Type="Referee" uID="o40732" />
+      </MatchOfficials>
+      <Stat Type="Venue">Stadion Energa Gdansk</Stat>
+      <Stat Type="City">Gdansk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p17878" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t119">
+        <Goal Period="SecondHalf" PlayerRef="p13520" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-11T17:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426853">
+      <MatchInfo GroupName="D" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2012-06-11 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Nicola" LastName="Rizzoli" Type="Referee" uID="o13002" />
+      </MatchOfficials>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t368">
+        <Goal Period="FirstHalf" PlayerRef="p28554" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p7551" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-04-27T10:41:50+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426854">
+      <MatchInfo GroupName="D" MatchDay="1" MatchType="Regular" MatchWinner="t510" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2369">
+        <Date>2012-06-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Cüneyt" LastName="Çakir" Type="Referee" uID="o40744" />
+      </MatchOfficials>
+      <Stat Type="Venue">Kiev Olympic Stadium</Stat>
+      <Stat Type="City">Kiev</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t510">
+        <Goal Period="SecondHalf" PlayerRef="p6618" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6618" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t361">
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-12T17:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426855">
+      <MatchInfo GroupName="A" MatchDay="2" MatchType="Regular" MatchWinner="t367" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7760">
+        <Date>2012-06-12 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Stéphane" LastName="Lannoy" Type="Referee" uID="o19551" />
+      </MatchOfficials>
+      <Stat Type="Venue">Stadion Miejski (Wroclaw)</Stat>
+      <Stat Type="City">Wroclaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t517">
+        <Goal Period="SecondHalf" PlayerRef="p20319" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="2" Side="Away" TeamRef="t367">
+        <Goal Period="FirstHalf" PlayerRef="p68939" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p78353" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-04-27T10:41:53+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426856">
+      <MatchInfo GroupName="A" MatchDay="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7759">
+        <Date>2012-06-12 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Wolfgang" LastName="Stark" Type="Referee" uID="o11070" />
+      </MatchOfficials>
+      <Stat Type="Venue">PGE Narodowy</Stat>
+      <Stat Type="City">Warsaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t511">
+        <Goal Period="SecondHalf" PlayerRef="p37092" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t536">
+        <Goal Period="FirstHalf" PlayerRef="p51437" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-13T17:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426857">
+      <MatchInfo GroupName="B" MatchDay="2" MatchType="Regular" MatchWinner="t359" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7761">
+        <Date>2012-06-13 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Craig" LastName="Thomson" Type="Referee" uID="o13156" />
+      </MatchOfficials>
+      <Stat Type="Venue">Arena Lviv</Stat>
+      <Stat Type="City">Lviv</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p27697" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27697" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="3" Side="Away" TeamRef="t359">
+        <Goal Period="FirstHalf" PlayerRef="p10929" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18522" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38685" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2018-06-04T14:47:09+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426858">
+      <MatchInfo GroupName="B" MatchDay="2" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3570">
+        <Date>2012-06-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Jonas" LastName="Eriksson" Type="Referee" uID="o39541" />
+      </MatchOfficials>
+      <Stat Type="Venue">Metalist Stadium</Stat>
+      <Stat Type="City">Kharkiv</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t366">
+        <Goal Period="SecondHalf" PlayerRef="p12297" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="2" Side="Away" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17884" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-14T17:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426859">
+      <MatchInfo GroupName="C" MatchDay="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="4995">
+        <Date>2012-06-14 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Howard" LastName="Webb" Type="Referee" uID="o17676" />
+      </MatchOfficials>
+      <Stat Type="Venue">INEA Stadion</Stat>
+      <Stat Type="City">Poznan</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t119">
+        <Goal Period="FirstHalf" PlayerRef="p7313" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t535">
+        <Goal Period="SecondHalf" PlayerRef="p46197" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-14T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426860">
+      <MatchInfo GroupName="C" MatchDay="2" MatchType="Regular" MatchWinner="t118" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7367">
+        <Date>2012-06-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Pedro" LastName="Proença" Type="Referee" uID="o40354" />
+      </MatchOfficials>
+      <Stat Type="Venue">Stadion Energa Gdansk</Stat>
+      <Stat Type="City">Gdansk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="4" Side="Home" TeamRef="t118">
+        <Goal Period="FirstHalf" PlayerRef="p14402" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20664" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14402" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17878" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t116" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-15T20:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426861">
+      <MatchInfo GroupName="D" MatchDay="2" MatchType="Regular" MatchWinner="t114" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2369">
+        <Date>2012-06-15 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Damir" LastName="Skomina" Type="Referee" uID="o40740" />
+      </MatchOfficials>
+      <Stat Type="Venue">Kiev Olympic Stadium</Stat>
+      <Stat Type="City">Kiev</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t361">
+        <Goal Period="SecondHalf" PlayerRef="p3898" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9047" Type="Own" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="3" Side="Away" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p40142" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p50175" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20467" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-04-27T10:41:57+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426862">
+      <MatchInfo GroupName="D" MatchDay="2" MatchType="Regular" MatchWinner="t368" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2012-06-15 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Björn" LastName="Kuipers" Type="Referee" uID="o39370" />
+      </MatchOfficials>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t510" />
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t368">
+        <Goal Period="SecondHalf" PlayerRef="p19500" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27341" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-16T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426864">
+      <MatchInfo GroupName="A" MatchDay="3" MatchType="Regular" MatchWinner="t367" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7760">
+        <Date>2012-06-16 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Craig" LastName="Thomson" Type="Referee" uID="o13156" />
+      </MatchOfficials>
+      <Stat Type="Venue">Stadion Miejski (Wroclaw)</Stat>
+      <Stat Type="City">Wroclaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t367">
+        <Goal Period="SecondHalf" PlayerRef="p68939" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t511" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-16T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426863">
+      <MatchInfo GroupName="A" MatchDay="3" MatchType="Regular" MatchWinner="t517" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7759">
+        <Date>2012-06-16 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Jonas" LastName="Eriksson" Type="Referee" uID="o39541" />
+      </MatchOfficials>
+      <Stat Type="Venue">PGE Narodowy</Stat>
+      <Stat Type="City">Warsaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t517">
+        <Goal Period="FirstHalf" PlayerRef="p6994" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t536" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-17T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426866">
+      <MatchInfo GroupName="B" MatchDay="3" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7761">
+        <Date>2012-06-17 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Carlos" LastName="Velasco Carballo" Type="Referee" uID="o18744" />
+      </MatchOfficials>
+      <Stat Type="Venue">Arena Lviv</Stat>
+      <Stat Type="City">Lviv</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p16099" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p17733" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p38117" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-17T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426865">
+      <MatchInfo GroupName="B" MatchDay="3" MatchType="Regular" MatchWinner="t359" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3570">
+        <Date>2012-06-17 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Nicola" LastName="Rizzoli" Type="Referee" uID="o13002" />
+      </MatchOfficials>
+      <Stat Type="Venue">Metalist Stadium</Stat>
+      <Stat Type="City">Kharkiv</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t359">
+        <Goal Period="FirstHalf" PlayerRef="p14937" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t366">
+        <Goal Period="FirstHalf" PlayerRef="p4611" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-18T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426867">
+      <MatchInfo GroupName="C" MatchDay="3" MatchType="Regular" MatchWinner="t118" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="7367">
+        <Date>2012-06-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Wolfgang" LastName="Stark" Type="Referee" uID="o11070" />
+      </MatchOfficials>
+      <Stat Type="Venue">Stadion Energa Gdansk</Stat>
+      <Stat Type="City">Gdansk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t535" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p17740" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-07-10T16:39:55+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426868">
+      <MatchInfo GroupName="C" MatchDay="3" MatchType="Regular" MatchWinner="t119" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="4995">
+        <Date>2012-06-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Cüneyt" LastName="Çakir" Type="Referee" uID="o40744" />
+      </MatchOfficials>
+      <Stat Type="Venue">INEA Stadion</Stat>
+      <Stat Type="City">Poznan</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t119">
+        <Goal Period="FirstHalf" PlayerRef="p7174" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p42493" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t116" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-19T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426870">
+      <MatchInfo GroupName="D" MatchDay="3" MatchType="Regular" MatchWinner="t114" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6909">
+        <Date>2012-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Viktor" LastName="Kassai" Type="Referee" uID="o40732" />
+      </MatchOfficials>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t114">
+        <Goal Period="SecondHalf" PlayerRef="p13017" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t510" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-19T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426869">
+      <MatchInfo GroupName="D" MatchDay="3" MatchType="Regular" MatchWinner="t361" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2369">
+        <Date>2012-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Pedro" LastName="Proença" Type="Referee" uID="o40354" />
+      </MatchOfficials>
+      <Stat Type="Venue">Kiev Olympic Stadium</Stat>
+      <Stat Type="City">Kiev</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t361">
+        <Goal Period="SecondHalf" PlayerRef="p19057" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9808" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t368" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-21T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426871">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t359" Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="7759">
+        <Date>2012-06-21 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Howard" LastName="Webb" Type="Referee" uID="o17676" />
+      </MatchOfficials>
+      <Stat Type="Venue">PGE Narodowy</Stat>
+      <Stat Type="City">Warsaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t367" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t359">
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-22T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426872">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t357" Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="7367">
+        <Date>2012-06-22 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Damir" LastName="Skomina" Type="Referee" uID="o40740" />
+      </MatchOfficials>
+      <Stat Type="Venue">Stadion Energa Gdansk</Stat>
+      <Stat Type="City">Gdansk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="4" Side="Home" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p15207" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5155" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p50523" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39816" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t517">
+        <Goal Period="SecondHalf" PlayerRef="p10866" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p28130" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-23T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426873">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t118" Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="6909">
+        <Date>2012-06-23 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Nicola" LastName="Rizzoli" Type="Referee" uID="o13002" />
+      </MatchOfficials>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t118">
+        <Goal Period="FirstHalf" PlayerRef="p3508" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3508" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t368" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-24T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426874">
+      <MatchInfo GameWinner="t119" GameWinnerType="ShootOut" MatchDay="4" MatchType="Cup" Period="FullTime" RoundNumber="2" RoundType="Quarter-Finals" Venue_id="2369">
+        <Date>2012-06-24 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Pedro" LastName="Proença" Type="Referee" uID="o40354" />
+      </MatchOfficials>
+      <Stat Type="Venue">Kiev Olympic Stadium</Stat>
+      <Stat Type="City">Kiev</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="2" Score="0" Side="Home" TeamRef="t114">
+        <Goal Period="ShootOut" PlayerRef="p1814" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p13017" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="4" Score="0" Side="Away" TeamRef="t119">
+        <Goal Period="ShootOut" PlayerRef="p28573" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p42493" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p45129" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p7313" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-27T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426875">
+      <MatchInfo GameWinner="t118" GameWinnerType="ShootOut" MatchDay="5" MatchType="Cup" Period="FullTime" RoundNumber="3" RoundType="Semi-Finals" Venue_id="6909">
+        <Date>2012-06-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Cüneyt" LastName="Çakir" Type="Referee" uID="o40744" />
+      </MatchOfficials>
+      <Stat Type="Venue">Donbass Arena</Stat>
+      <Stat Type="City">Donetsk</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="2" Score="0" Side="Home" TeamRef="t359">
+        <Goal Period="ShootOut" PlayerRef="p38530" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p18522" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="4" Score="0" Side="Away" TeamRef="t118">
+        <Goal Period="ShootOut" PlayerRef="p17878" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p17861" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p18221" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p12237" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-06-28T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426876">
+      <MatchInfo MatchDay="5" MatchType="Cup" MatchWinner="t119" Period="FullTime" RoundNumber="3" RoundType="Semi-Finals" Venue_id="7759">
+        <Date>2012-06-28 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Stéphane" LastName="Lannoy" Type="Referee" uID="o19551" />
+      </MatchOfficials>
+      <Stat Type="Venue">PGE Narodowy</Stat>
+      <Stat Type="City">Warsaw</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t357">
+        <Goal Period="SecondHalf" PlayerRef="p37605" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="2" Side="Away" TeamRef="t119">
+        <Goal Period="FirstHalf" PlayerRef="p42493" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p42493" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2012-07-01T19:45:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g426877">
+      <MatchInfo MatchDay="6" MatchType="Cup" MatchWinner="t118" Period="FullTime" RoundNumber="4" RoundType="Final" Venue_id="2369">
+        <Date>2012-07-01 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <MatchOfficials>
+        <MatchOfficial FirstName="Pedro" LastName="Proença" Type="Referee" uID="o40354" />
+      </MatchOfficials>
+      <Stat Type="Venue">Kiev Olympic Stadium</Stat>
+      <Stat Type="City">Kiev</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="4" Side="Home" TeamRef="t118">
+        <Goal Period="FirstHalf" PlayerRef="p52356" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p20664" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43670" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14402" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t119" />
+    </MatchData>
+    <TimingTypes>
+      <DetailTypes>
+        <DetailType detail_id="0" name="Unknown" />
+        <DetailType detail_id="1" name="All Events (with positions)" />
+        <DetailType detail_id="2" name="All Events" />
+        <DetailType detail_id="3" name="Key Events" />
+        <DetailType detail_id="4" name="Lineups, Goals &amp; Cards" />
+        <DetailType detail_id="5" name="Goals" />
+        <DetailType detail_id="6" name="Scores" />
+      </DetailTypes>
+      <TimestampAccuracyTypes>
+        <TimestampAccuracyType name="Unknown" timestamp_accuracy_id="0" />
+        <TimestampAccuracyType name="Fully Accurate Timestamps (24hr + Match Times)" timestamp_accuracy_id="1" />
+        <TimestampAccuracyType name="Accurate Match Times only" timestamp_accuracy_id="2" />
+        <TimestampAccuracyType name="To The Minute Accurate" timestamp_accuracy_id="3" />
+        <TimestampAccuracyType name="Low Level Accurate Match Times" timestamp_accuracy_id="4" />
+        <TimestampAccuracyType name="No Match Time Accuracy" timestamp_accuracy_id="5" />
+      </TimestampAccuracyTypes>
+      <TimingType>
+        <TimingType name="Unknown" timing_id="0" />
+        <TimingType name="Live" timing_id="1" />
+        <TimingType name="Live Delayed" timing_id="2" />
+        <TimingType name="Post Match (less than 24 hours)" timing_id="3" />
+        <TimingType name="Post Match (24 hours+)" timing_id="4" />
+      </TimingType>
+    </TimingTypes>
+    <Team uID="t118">
+      <Name>Spain</Name>
+    </Team>
+    <Team uID="t511">
+      <Name>Poland</Name>
+    </Team>
+    <Team uID="t535">
+      <Name>Croatia</Name>
+    </Team>
+    <Team uID="t119">
+      <Name>Italy</Name>
+    </Team>
+    <Team uID="t116">
+      <Name>Republic of Ireland</Name>
+    </Team>
+    <Team uID="t366">
+      <Name>Netherlands</Name>
+    </Team>
+    <Team uID="t359">
+      <Name>Portugal</Name>
+    </Team>
+    <Team uID="t369">
+      <Name>Denmark</Name>
+    </Team>
+    <Team uID="t368">
+      <Name>France</Name>
+    </Team>
+    <Team uID="t517">
+      <Name>Greece</Name>
+    </Team>
+    <Team uID="t114">
+      <Name>England</Name>
+    </Team>
+    <Team uID="t361">
+      <Name>Sweden</Name>
+    </Team>
+    <Team uID="t367">
+      <Name>Czech Republic</Name>
+    </Team>
+    <Team uID="t510">
+      <Name>Ukraine</Name>
+    </Team>
+    <Team uID="t536">
+      <Name>Russia</Name>
+    </Team>
+    <Team uID="t357">
+      <Name>Germany</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

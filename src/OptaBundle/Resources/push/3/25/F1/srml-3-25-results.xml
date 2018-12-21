@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2017 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20170315T143251,707Z
+     production module:  Opta::Feed::XML::Soccer::F1
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="EU_EF" competition_id="3" competition_name="European Championship Finals" game_system_id="1" season_id="25" season_name="Season 1983/1984" timestamp="2017-03-15 14-32-51">
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432320">
+      <MatchInfo GroupName="1" MatchType="Regular" MatchWinner="t368" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1311">
+        <Date>1984-06-12 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t368">
+        <Goal Period="SecondHalf" PlayerRef="p9874" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t369" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432321">
+      <MatchInfo GroupName="1" MatchType="Regular" MatchWinner="t360" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1306">
+        <Date>1984-06-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Felix Bollaert-Delelis</Stat>
+      <Stat Type="City">Lens</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="2" Side="Home" TeamRef="t360">
+        <Goal Period="FirstHalf" PlayerRef="p29949" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p30839" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1797" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432326">
+      <MatchInfo GroupName="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1320">
+        <Date>1984-06-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Meinau</Stat>
+      <Stat Type="City">Strasbourg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t359" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t357" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432327">
+      <MatchInfo GroupName="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1319">
+        <Date>1984-06-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">Saint-Étienne</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t118">
+        <Goal Period="FirstHalf" PlayerRef="p46101" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t358">
+        <Goal Period="FirstHalf" PlayerRef="p46519" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432323">
+      <MatchInfo GroupName="1" MatchType="Regular" MatchWinner="t369" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1309">
+        <Date>1984-06-16 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="5" Side="Home" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p28888" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p29708" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46172" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p21569" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p28888" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1797" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432322">
+      <MatchInfo GroupName="1" MatchType="Regular" MatchWinner="t368" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="137">
+        <Date>1984-06-16 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">La Beaujoire-Louis-Fonteneau</Stat>
+      <Stat Type="City">Nantes</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="3" Score="5" Side="Home" TeamRef="t368">
+        <Goal Period="FirstHalf" PlayerRef="p9872" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p9876" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p9874" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9874" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p9874" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t360" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432329">
+      <MatchInfo GroupName="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1310">
+        <Date>1984-06-17 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t359">
+        <Goal Period="SecondHalf" PlayerRef="p30168" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p29705" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432328">
+      <MatchInfo GroupName="2" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1306">
+        <Date>1984-06-17 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Felix Bollaert-Delelis</Stat>
+      <Stat Type="City">Lens</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t358">
+        <Goal Period="SecondHalf" PlayerRef="p46446" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p12574" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12574" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432325">
+      <MatchInfo GroupName="1" MatchType="Regular" MatchWinner="t369" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1320">
+        <Date>1984-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de la Meinau</Stat>
+      <Stat Type="City">Strasbourg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="3" Side="Home" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p28888" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p21569" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p46272" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="2" Side="Away" TeamRef="t360">
+        <Goal Period="FirstHalf" PlayerRef="p29218" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p29933" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432324">
+      <MatchInfo GroupName="1" MatchType="Regular" MatchWinner="t368" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1319">
+        <Date>1984-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Geoffroy-Guichard</Stat>
+      <Stat Type="City">Saint-Étienne</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="3" Side="Home" TeamRef="t368">
+        <Goal Period="SecondHalf" PlayerRef="p9874" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9874" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9874" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t1797">
+        <Goal Period="FirstHalf" PlayerRef="p31003" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3912" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432331">
+      <MatchInfo GroupName="2" MatchType="Regular" MatchWinner="t359" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="137">
+        <Date>1984-06-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">La Beaujoire-Louis-Fonteneau</Stat>
+      <Stat Type="City">Nantes</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t359">
+        <Goal Period="SecondHalf" PlayerRef="p45501" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t358" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432330">
+      <MatchInfo GroupName="2" MatchType="Regular" MatchWinner="t118" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="1311">
+        <Date>1984-06-20 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p29568" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t357" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432332">
+      <MatchInfo GameWinner="t368" GameWinnerType="AfterExtraTime" MatchType="Cup" Period="FullTime" RoundType="Semi-Finals" Venue_id="1310">
+        <Date>1984-06-23 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade Vélodrome</Stat>
+      <Stat Type="City">Marseille</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="1" HalfScore="0" NinetyScore="1" Score="2" Side="Home" TeamRef="t359">
+        <Goal Period="SecondHalf" PlayerRef="p46335" Type="Goal" />
+        <Goal Period="ExtraFirstHalf" PlayerRef="p46335" Type="Goal" />
+      </TeamData>
+      <TeamData ExtraScore="2" HalfScore="1" NinetyScore="1" Score="3" Side="Away" TeamRef="t368">
+        <Goal Period="FirstHalf" PlayerRef="p14923" Type="Goal" />
+        <Goal Period="ExtraSecondHalf" PlayerRef="p9874" Type="Goal" />
+        <Goal Period="ExtraSecondHalf" PlayerRef="p14923" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-06-26T00:00:50+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432333">
+      <MatchInfo GameWinner="t118" GameWinnerType="ShootOut" MatchType="Cup" Period="FullTime" RoundType="Semi-Finals" Venue_id="1309">
+        <Date>1984-06-24 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Stade de Gerland</Stat>
+      <Stat Type="City">Lyon</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="1" PenaltyScore="5" Score="1" Side="Home" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p29568" Type="Goal" />
+        <Goal Period="ShootOut" PlayerRef="p29569" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p29258" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p46678" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p29705" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p29761" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="1" NinetyScore="1" PenaltyScore="4" Score="1" Side="Away" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p22124" Type="Goal" />
+        <Goal Period="ShootOut" PlayerRef="p22124" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p29605" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p46272" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p29317" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-07-10T21:29:39+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g432334">
+      <MatchInfo MatchType="Regular" MatchWinner="t368" Period="FullTime" RoundType="Final" Venue_id="1311">
+        <Date>1984-06-27 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Parc des Princes</Stat>
+      <Stat Type="City">Paris</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t368">
+        <Goal Period="SecondHalf" PlayerRef="p9874" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p9889" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t118" />
+    </MatchData>
+    <TimingTypes>
+      <DetailTypes>
+        <DetailType detail_id="0" name="Unknown" />
+        <DetailType detail_id="1" name="All Events (with positions)" />
+        <DetailType detail_id="2" name="All Events" />
+        <DetailType detail_id="3" name="Key Events" />
+        <DetailType detail_id="4" name="Lineups, Goals &amp; Cards" />
+        <DetailType detail_id="5" name="Goals" />
+        <DetailType detail_id="6" name="Scores" />
+      </DetailTypes>
+      <TimestampAccuracyTypes>
+        <TimestampAccuracyType name="Unknown" timing_id="0" />
+        <TimestampAccuracyType name="Fully Accurate Timestamps (24hr + Match Times)" timing_id="1" />
+        <TimestampAccuracyType name="Accurate Match Times only" timing_id="2" />
+        <TimestampAccuracyType name="To The Minute Accurate" timing_id="3" />
+        <TimestampAccuracyType name="Low Level Accurate Match Times" timing_id="4" />
+        <TimestampAccuracyType name="No Match Time Accuracy" timing_id="5" />
+      </TimestampAccuracyTypes>
+      <TimingType>
+        <TimingType name="Unknown" timestamp_accuracy_id="0" />
+        <TimingType name="Live" timestamp_accuracy_id="1" />
+        <TimingType name="Live Delayed" timestamp_accuracy_id="2" />
+        <TimingType name="Post Match (less than 24 hours)" timestamp_accuracy_id="3" />
+        <TimingType name="Post Match (24 hours+)" timestamp_accuracy_id="4" />
+      </TimingType>
+    </TimingTypes>
+    <Team uID="t359">
+      <Name>Portugal</Name>
+    </Team>
+    <Team uID="t118">
+      <Name>Spain</Name>
+    </Team>
+    <Team uID="t369">
+      <Name>Denmark</Name>
+    </Team>
+    <Team uID="t368">
+      <Name>France</Name>
+    </Team>
+    <Team uID="t358">
+      <Name>Romania</Name>
+    </Team>
+    <Team uID="t360">
+      <Name>Belgium</Name>
+    </Team>
+    <Team uID="t357">
+      <Name>Germany</Name>
+    </Team>
+    <Team uID="t1797">
+      <Name>Yugoslavia</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

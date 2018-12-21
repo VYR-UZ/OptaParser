@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2017 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a02.nexus.opta.net
+     production time:    20170315T143249,18Z
+     production module:  Opta::Feed::XML::Soccer::F3
+-->
+<SoccerFeed>
+  <SoccerDocument Team="" Type="STANDINGS Latest" competition_code="EU_EF" competition_id="3" competition_name="European Championship Finals" game_system_id="1" season_id="25" season_name="Season 1983/1984" timestamp="2017-03-15 14-32-48">
+    <Competition TeamStandings="" />
+  </SoccerDocument>
+</SoccerFeed>
