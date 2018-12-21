@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2016 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20160608T145412,368Z
+     production module:  Opta::Feed::XML::Soccer::F1
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="EU_EF" competition_id="3" competition_name="European Championship Finals" game_system_id="1" season_id="14" season_name="Season 1995/1996" timestamp="2016-06-08 15-54-12">
+    <MatchData detail_id="1" last_modified="2016-04-27T10:47:13+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280062">
+      <MatchInfo GroupName="A" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="5">
+        <Date>1996-06-08 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Wembley</Stat>
+      <Stat Type="City">London</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p1" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t497">
+        <Goal Period="SecondHalf" PlayerRef="p7280" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280080">
+      <MatchInfo GroupName="D" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="41">
+        <Date>1996-06-09 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Hillsborough</Stat>
+      <Stat Type="City">Sheffield</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p15037" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t359">
+        <Goal Period="SecondHalf" PlayerRef="p3879" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280074">
+      <MatchInfo GroupName="C" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>1996-06-09 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="2" Side="Home" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p5415" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p1872" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t367" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280068">
+      <MatchInfo GroupName="B" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="29">
+        <Date>1996-06-09 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Elland Road</Stat>
+      <Stat Type="City">Leeds</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p4159" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t502">
+        <Goal Period="SecondHalf" PlayerRef="p13650" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2015-10-21T17:00:47+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280063">
+      <MatchInfo GroupName="A" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="34">
+        <Date>1996-06-10 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t366" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t115" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-05-23T17:32:06+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280069">
+      <MatchInfo GroupName="B" MatchType="Regular" MatchWinner="t368" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="31">
+        <Date>1996-06-10 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St. James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t358" />
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t368">
+        <Goal Period="FirstHalf" PlayerRef="p3885" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280075">
+      <MatchInfo GroupName="C" MatchType="Regular" MatchWinner="t119" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="39">
+        <Date>1996-06-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t119">
+        <Goal Period="FirstHalf" PlayerRef="p1680" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1680" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t536">
+        <Goal Period="FirstHalf" PlayerRef="p29726" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280081">
+      <MatchInfo GroupName="D" MatchType="Regular" MatchWinner="t535" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="40">
+        <Date>1996-06-11 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">City Ground</Stat>
+      <Stat Type="City">Nottingham</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t362" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t535">
+        <Goal Period="SecondHalf" PlayerRef="p6979" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280070">
+      <MatchInfo GroupName="B" MatchType="Regular" MatchWinner="t502" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="31">
+        <Date>1996-06-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St. James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t358" />
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t502">
+        <Goal Period="FirstHalf" PlayerRef="p13650" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280064">
+      <MatchInfo GroupName="A" MatchType="Regular" MatchWinner="t366" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="34">
+        <Date>1996-06-13 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t497" />
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t366">
+        <Goal Period="SecondHalf" PlayerRef="p359" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1608" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280076">
+      <MatchInfo GroupName="C" MatchType="Regular" MatchWinner="t367" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="39">
+        <Date>1996-06-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="2" Side="Home" TeamRef="t367">
+        <Goal Period="FirstHalf" PlayerRef="p3938" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3932" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t119">
+        <Goal Period="FirstHalf" PlayerRef="p4172" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280082">
+      <MatchInfo GroupName="D" MatchType="Regular" MatchWinner="t359" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="40">
+        <Date>1996-06-14 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">City Ground</Stat>
+      <Stat Type="City">Nottingham</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t359">
+        <Goal Period="SecondHalf" PlayerRef="p3855" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t362" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280071">
+      <MatchInfo GroupName="B" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="29">
+        <Date>1996-06-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Elland Road</Stat>
+      <Stat Type="City">Leeds</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t368">
+        <Goal Period="SecondHalf" PlayerRef="p4208" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p6134" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280065">
+      <MatchInfo GroupName="A" MatchType="Regular" MatchWinner="t114" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="5">
+        <Date>1996-06-15 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Wembley</Stat>
+      <Stat Type="City">London</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t115" />
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t114">
+        <Goal Period="SecondHalf" PlayerRef="p1850" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280083">
+      <MatchInfo GroupName="D" MatchType="Regular" MatchWinner="t535" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="41">
+        <Date>1996-06-16 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Hillsborough</Stat>
+      <Stat Type="City">Sheffield</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="3" Side="Home" TeamRef="t535">
+        <Goal Period="SecondHalf" PlayerRef="p6615" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1605" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1605" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t369" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280077">
+      <MatchInfo GroupName="C" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>1996-06-16 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t536" />
+      <TeamData HalfScore="0" Score="3" Side="Away" TeamRef="t357">
+        <Goal Period="SecondHalf" PlayerRef="p22497" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13656" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13656" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-04-27T10:47:07+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280067">
+      <MatchInfo GroupName="A" MatchType="Regular" MatchWinner="t114" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="5">
+        <Date>1996-06-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Wembley</Stat>
+      <Stat Type="City">London</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="4" Side="Home" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p1" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p520" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p520" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t366">
+        <Goal Period="SecondHalf" PlayerRef="p4075" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280072">
+      <MatchInfo GroupName="B" MatchType="Regular" MatchWinner="t368" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="31">
+        <Date>1996-06-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">St. James&#39; Park</Stat>
+      <Stat Type="City">Newcastle</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="3" Side="Home" TeamRef="t368">
+        <Goal Period="FirstHalf" PlayerRef="p3861" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p29725" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p8840" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t502">
+        <Goal Period="SecondHalf" PlayerRef="p13650" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280073">
+      <MatchInfo GroupName="B" MatchType="Regular" MatchWinner="t118" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="29">
+        <Date>1996-06-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Elland Road</Stat>
+      <Stat Type="City">Leeds</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t358">
+        <Goal Period="FirstHalf" PlayerRef="p8602" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t118">
+        <Goal Period="FirstHalf" PlayerRef="p6021" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6156" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280066">
+      <MatchInfo GroupName="A" MatchType="Regular" MatchWinner="t115" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="34">
+        <Date>1996-06-18 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t115">
+        <Goal Period="FirstHalf" PlayerRef="p2173" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t497" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280084">
+      <MatchInfo GroupName="D" MatchType="Regular" MatchWinner="t359" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="40">
+        <Date>1996-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">City Ground</Stat>
+      <Stat Type="City">Nottingham</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t535" />
+      <TeamData HalfScore="2" Score="3" Side="Away" TeamRef="t359">
+        <Goal Period="FirstHalf" PlayerRef="p3865" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p3876" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p43589" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280078">
+      <MatchInfo GroupName="C" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="39">
+        <Date>1996-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="3" Side="Home" TeamRef="t367">
+        <Goal Period="FirstHalf" PlayerRef="p3945" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p24809" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1793" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="3" Side="Away" TeamRef="t536">
+        <Goal Period="SecondHalf" PlayerRef="p5830" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13097" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6024" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280079">
+      <MatchInfo GroupName="C" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="28">
+        <Date>1996-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t119" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t357" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280085">
+      <MatchInfo GroupName="D" MatchType="Regular" MatchWinner="t369" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="41">
+        <Date>1996-06-19 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Hillsborough</Stat>
+      <Stat Type="City">Sheffield</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t362" />
+      <TeamData HalfScore="0" Score="3" Side="Away" TeamRef="t369">
+        <Goal Period="SecondHalf" PlayerRef="p15037" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p1931" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15037" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280086">
+      <MatchInfo MatchType="Cup" Period="FullTime" RoundType="Quarter-Finals" Venue_id="5">
+        <Date>1996-06-22 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Wembley</Stat>
+      <Stat Type="City">London</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="4" Score="0" Side="Home" TeamRef="t114">
+        <Goal Period="ShootOut" PlayerRef="p2046" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1850" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1322" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="2" Score="0" Side="Away" TeamRef="t118">
+        <Goal Period="ShootOut" PlayerRef="p6156" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p47426" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280087">
+      <MatchInfo MatchType="Cup" Period="FullTime" RoundType="Quarter-Finals" Venue_id="39">
+        <Date>1996-06-22 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Anfield</Stat>
+      <Stat Type="City">Liverpool</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="5" Score="0" Side="Home" TeamRef="t368">
+        <Goal Period="ShootOut" PlayerRef="p3861" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p3854" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p3882" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p43291" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p4208" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="4" Score="0" Side="Away" TeamRef="t366">
+        <Goal Period="ShootOut" PlayerRef="p5402" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p4070" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p43298" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p4075" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280088">
+      <MatchInfo MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundType="Quarter-Finals" Venue_id="28">
+        <Date>1996-06-23 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p13656" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p22497" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t535">
+        <Goal Period="SecondHalf" PlayerRef="p1605" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280089">
+      <MatchInfo MatchType="Regular" MatchWinner="t367" Period="FullTime" RoundType="Quarter-Finals" Venue_id="34">
+        <Date>1996-06-23 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Villa Park</Stat>
+      <Stat Type="City">Birmingham</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t359" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t367">
+        <Goal Period="SecondHalf" PlayerRef="p3940" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-06-25T17:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280091">
+      <MatchInfo MatchType="Cup" Period="FullTime" RoundType="Semi-Finals" Venue_id="28">
+        <Date>1996-06-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Old Trafford</Stat>
+      <Stat Type="City">Manchester</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="6" Score="0" Side="Home" TeamRef="t367">
+        <Goal Period="ShootOut" PlayerRef="p21911" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p3938" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p3928" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p3940" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p24056" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1799" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="5" Score="0" Side="Away" TeamRef="t368">
+        <Goal Period="ShootOut" PlayerRef="p3861" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p3882" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p3854" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p43291" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p4208" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2016-06-07T14:55:26+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280090">
+      <MatchInfo MatchType="Cup" Period="FullTime" RoundType="Semi-Finals" Venue_id="5">
+        <Date>1996-06-26 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Wembley</Stat>
+      <Stat Type="City">London</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="1" NinetyScore="1" PenaltyScore="5" Score="1" Side="Home" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p1" Type="Goal" />
+        <Goal Period="ShootOut" PlayerRef="p2046" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1850" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1322" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p520" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="1" NinetyScore="1" PenaltyScore="6" Score="1" Side="Away" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p22068" Type="Goal" />
+        <Goal Period="ShootOut" PlayerRef="p5415" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p1872" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p4209" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p22068" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p5046" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p5323" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2015-07-27T16:32:16+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g1280092">
+      <MatchInfo MatchType="Cup Gold" Period="FullTime" RoundType="Final" Venue_id="5">
+        <Date>1996-06-30 19:45:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Wembley</Stat>
+      <Stat Type="City">London</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="1" HalfScore="0" NinetyScore="1" Score="2" Side="Home" TeamRef="t357">
+        <Goal Period="SecondHalf" PlayerRef="p4121" Type="Goal" />
+        <Goal Period="ExtraFirstHalf" PlayerRef="p4121" Type="Goal" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="1" Score="1" Side="Away" TeamRef="t367">
+        <Goal Period="SecondHalf" PlayerRef="p1799" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <TimingTypes>
+      <DetailTypes>
+        <DetailType detail_id="0" name="Unknown" />
+        <DetailType detail_id="1" name="All Events (with positions)" />
+        <DetailType detail_id="2" name="All Events" />
+        <DetailType detail_id="3" name="Key Events" />
+        <DetailType detail_id="4" name="Lineups, Goals &amp; Cards" />
+        <DetailType detail_id="5" name="Goals" />
+        <DetailType detail_id="6" name="Scores" />
+      </DetailTypes>
+      <TimestampAccuracyTypes>
+        <TimestampAccuracyType name="Unknown" timing_id="0" />
+        <TimestampAccuracyType name="Fully Accurate Timestamps (24hr + Match Times)" timing_id="1" />
+        <TimestampAccuracyType name="Accurate Match Times only" timing_id="2" />
+        <TimestampAccuracyType name="To The Minute Accurate" timing_id="3" />
+        <TimestampAccuracyType name="Low Level Accurate Match Times" timing_id="4" />
+        <TimestampAccuracyType name="No Match Time Accuracy" timing_id="5" />
+      </TimestampAccuracyTypes>
+      <TimingType>
+        <TimingType name="Unknown" timestamp_accuracy_id="0" />
+        <TimingType name="Live" timestamp_accuracy_id="1" />
+        <TimingType name="Live Delayed" timestamp_accuracy_id="2" />
+        <TimingType name="Post Match (less than 24 hours)" timestamp_accuracy_id="3" />
+        <TimingType name="Post Match (24 hours+)" timestamp_accuracy_id="4" />
+      </TimingType>
+    </TimingTypes>
+    <Team uID="t118">
+      <Name>Spain</Name>
+    </Team>
+    <Team uID="t502">
+      <Name>Bulgaria</Name>
+    </Team>
+    <Team uID="t358">
+      <Name>Romania</Name>
+    </Team>
+    <Team uID="t535">
+      <Name>Croatia</Name>
+    </Team>
+    <Team uID="t119">
+      <Name>Italy</Name>
+    </Team>
+    <Team uID="t366">
+      <Name>Netherlands</Name>
+    </Team>
+    <Team uID="t359">
+      <Name>Portugal</Name>
+    </Team>
+    <Team uID="t369">
+      <Name>Denmark</Name>
+    </Team>
+    <Team uID="t368">
+      <Name>France</Name>
+    </Team>
+    <Team uID="t497">
+      <Name>Switzerland</Name>
+    </Team>
+    <Team uID="t114">
+      <Name>England</Name>
+    </Team>
+    <Team uID="t115">
+      <Name>Scotland</Name>
+    </Team>
+    <Team uID="t367">
+      <Name>Czech Republic</Name>
+    </Team>
+    <Team uID="t362">
+      <Name>Turkey</Name>
+    </Team>
+    <Team uID="t536">
+      <Name>Russia</Name>
+    </Team>
+    <Team uID="t357">
+      <Name>Germany</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>
