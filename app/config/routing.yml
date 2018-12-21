@@ -1,0 +1,4 @@
+opta:
+    resource: "@OptaBundle/Controller/"
+    type:     annotation
+    prefix:   /
